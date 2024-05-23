@@ -47,6 +47,9 @@ The whole notebook is divided into the following sections:
 * Parse this output into functional requirements and non-functional dictionaries.
 * Generate the graph.
 
+## Task 1: Data Collection and Preparation
+* We can compare the functional requirements with ground truth using the Rouge method.
+  
 ## TODOs
 
 * Adapt for other types of data formats.
